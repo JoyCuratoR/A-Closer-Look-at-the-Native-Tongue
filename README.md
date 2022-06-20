@@ -13,4 +13,7 @@ These videos made me wonder if there was some way I could make lists of the most
 So I set out to answer the question: What are the most frequent words that I use in my native language - the English language?
 
 ## Before You Begin
-I used 
+Orginally, I used a collection of journal entries/reflections
+
+
+[Kaggle dataset](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?select=wiki_movie_plots_deduped.csv)
